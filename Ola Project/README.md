@@ -7,8 +7,9 @@ This project demonstrates the analysis of Ola ride data using SQL for data proce
 ## 🚀 **Project Highlights**
 
 - **Technologies Used:**  
-  - **SQL:** Data extraction, transformation, and analysis.  
-  - **Power BI:** Interactive dashboards and visual storytelling.  
+  - **SQL :** Data extraction, transformation, and analysis.  
+  - **Power BI :** Interactive dashboards and visual storytelling.
+  - **PowerPoint :** For designing polished and professional dashboard looks for presentations.
 
 - **Key Business Questions Addressed:**  
   1. Ride Volume Over Time  
