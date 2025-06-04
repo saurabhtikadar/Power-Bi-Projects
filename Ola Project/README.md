@@ -55,7 +55,7 @@ The Power BI dashboard is divided into five key views for ease of navigation and
 ## 📂 **Project Workflow**
 
 1. **Data Preparation:**  
-   - Data extraction and transformation using SQL queries.
+   - Data extraction and transformation using [SQL queries](https://github.com/saurabhtikadar/SQL-Projects/tree/main/Ola%20Project).
    - Data cleaning, ensuring consistency and accuracy.
 
 2. **Dashboard Creation:**  
